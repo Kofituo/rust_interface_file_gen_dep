@@ -5,8 +5,13 @@
 
 Program for translating libraries written in Rust to interface files.
 
-<h2>Note that this crate is deprecated. Use [rifgen](https://crates.io/crates/rifgen)
-</h2>
+
+
+##Note that this crate is deprecated. Use [rifgen](https://crates.io/crates/rifgen)
+
+
+
+
 
 It works with [flapigen](https://github.com/Dushistov/flapigen-rs). <b>For instructions on how to integrate with your project, click [here](https://docs.rs/rust_interface_file_generator/)
 
@@ -73,5 +78,7 @@ Other Features:</h3><h4>
 
 [View on crates.io](https://crates.io/crates/rifgen)
 </b>
+
+
 ##Update to rifgen
-This crate has now been migrated to [rifgen](https://crates.io/crates/rifgen)
+<b>This crate has now been migrated to [rifgen](https://crates.io/crates/rifgen)
