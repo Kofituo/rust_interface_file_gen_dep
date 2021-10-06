@@ -140,6 +140,7 @@ pub enum TypeCases {
     SnakeCase,
 }
 
+#[deprecated(note = "use rifgen crate instead")]
 /// The builder to use in build.rs file to generate the interface file
 pub struct Generator {
     type_case: TypeCases,
