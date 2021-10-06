@@ -4,7 +4,10 @@
 [![Rust Documentation](https://img.shields.io/badge/api-rustdoc-blue.svg)](https://docs.rs/rust_interface_file_generator/)
 
 Program for translating libraries written in Rust to interface files.
-##Note that this crate is deprecated. Use [rifgen](https://crates.io/crates/rifgen)
+
+<h2>Note that this crate is deprecated. Use [rifgen](https://crates.io/crates/rifgen)
+</h2>
+
 It works with [flapigen](https://github.com/Dushistov/flapigen-rs). <b>For instructions on how to integrate with your project, click [here](https://docs.rs/rust_interface_file_generator/)
 
 </b>Suppose you have the following Rust code:
@@ -69,6 +72,6 @@ Other Features:</h3><h4>
 <b>[Read the `rust_interface_file_gen` users guide here!](https://docs.rs/rust_interface_file_generator/)
 
 [View on crates.io](https://crates.io/crates/rifgen)
-
+</b>
 ##Update to rifgen
 This crate has now been migrated to [rifgen](https://crates.io/crates/rifgen)
